@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Study_API.iml" filepath="$PROJECT_DIR$/.idea/Java_Study_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyArrayList/StudyArrayList.iml" filepath="$PROJECT_DIR$/StudyArrayList/StudyArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyBufferedReader/StudyBufferedReader.iml" filepath="$PROJECT_DIR$/StudyBufferedReader/StudyBufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyBufferedWriter/StudyBufferedWriter.iml" filepath="$PROJECT_DIR$/StudyBufferedWriter/StudyBufferedWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyFileReader/StudyFileReader.iml" filepath="$PROJECT_DIR$/StudyFileReader/StudyFileReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyFileWriter/StudyFileWriter.iml" filepath="$PROJECT_DIR$/StudyFileWriter/StudyFileWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyString/StudyString.iml" filepath="$PROJECT_DIR$/StudyString/StudyString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyStringBuffer/StudyStringBuffer.iml" filepath="$PROJECT_DIR$/StudyStringBuffer/StudyStringBuffer.iml" />
+    </modules>
+  </component>
+</project>
