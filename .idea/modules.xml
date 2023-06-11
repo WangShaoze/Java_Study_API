@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Study_API.iml" filepath="$PROJECT_DIR$/.idea/Java_Study_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeForStudy/PracticeForStudy.iml" filepath="$PROJECT_DIR$/PracticeForStudy/PracticeForStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudyArrayList/StudyArrayList.iml" filepath="$PROJECT_DIR$/StudyArrayList/StudyArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudyBufferedReader/StudyBufferedReader.iml" filepath="$PROJECT_DIR$/StudyBufferedReader/StudyBufferedReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudyBufferedWriter/StudyBufferedWriter.iml" filepath="$PROJECT_DIR$/StudyBufferedWriter/StudyBufferedWriter.iml" />
