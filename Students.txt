@@ -1,0 +1,2 @@
+001,kel,18,man
+002,nipol,19,man
